@@ -1,0 +1,34 @@
+servidor:
+  nome: "&b&lsharkSMP"
+  discord: "https://discord.gg/Rxs29HBPda"
+  dinheiro-inicial: 150.0
+
+itens:
+  DIAMOND:
+    nome: "&bDiamante"
+    compra: 200.0
+    venda: 100.0
+  IRON_INGOT:
+    nome: "&fBarra de Ferro"
+    compra: 50.0
+    venda: 25.0
+  GOLD_INGOT:
+    nome: "&6Barra de Ouro"
+    compra: 80.0
+    venda: 40.0
+  OAK_LOG:
+    nome: "&eTronco de Carvalho"
+    compra: 10.0
+    venda: 5.0
+  COBBLESTONE:
+    nome: "&7Pedregulho"
+    compra: 5.0
+    venda: 2.0
+  GOLDEN_APPLE:
+    nome: "&6Maca Dourada"
+    compra: 300.0
+    venda: 150.0
+  COOKED_BEEF:
+    nome: "&cBife Assado"
+    compra: 15.0
+    venda: 7.0
